@@ -5,9 +5,6 @@
 }
 
 /*Global style */
-:root {
-    --bg-img-center: no-repeat center/cover
-}
 
 .center {
     text-align: center;
@@ -55,7 +52,7 @@ span {
 /* header/hero area */
 .hero {
     background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.616)),
-        url(photos/snapedit_1708976211327.png) var(--bg-img-center) fixed;
+        url(photos/snapedit_1708976211327.png) no-repeat center/cover fixed;
 }
 
 .hero__headings-container {
@@ -137,15 +134,51 @@ span {
 }
 
 .img-1 {
-    background: url(photos/gettyimages-1761700655.jpeg) var(--bg-img-center);
+    background: url(photos/gettyimages-1761700655.jpeg) no-repeat center/cover;
 }
 
 .img-2 {
-    background: url(photos/30008698.jpg) var(--bg-img-center);
+    background: url(photos/30008698.jpg) no-repeat center/cover;
 }
 
 .img-3 {
-    background: url(photos/RTX66DZ4.jpg) var(--bg-img-center);
+    background: url(photos/RTX66DZ4.jpg) no-repeat center/cover
+}
+
+.img-4 {
+    background: url(photos/carlo-ancelotti-2.jpg) no-repeat center/cover;
+}
+
+.img-5 {
+    background: url(photos/unnamed.png) no-repeat center/cover;
+}
+
+.img-6 {
+    background: url(photos/230107105224-real-madrid-lineup-010723.jpg) no-repeat center/cover;
+}
+
+.img-7 {
+    background: url(photos/-1x-1.jpg) no-repeat center/cover;
+}
+
+.img-8 {
+    background: url(photos/1__S7scqhMXrU6CsAcafAq8g.jpg) no-repeat center/cover;
+}
+
+.img-9 {
+    background: url(photos/16937547348928.jpg) no-repeat center/cover;
+}
+
+.img-10 {
+    background: url(photos/240122104951-04-real-madrid-012124.jpg) no-repeat center/cover;
+}
+
+.img-11 {
+    background: url(photos/TELEMMGLPICT000347677646_16947731509210_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.webp) no-repeat center/cover;
+}
+
+.img-12 {
+    background: url(photos/merlin_138716301_7655ceb3-fb5e-4354-821a-bfad8d475786-superJumbo.jpg) no-repeat center/cover;
 }
 
 /* WHY US */
