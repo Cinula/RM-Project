@@ -6,7 +6,6 @@
 
 /*Global style */
 :root {
-    --primary-color: #1e38c9;
     --primary-font: Algerian;
     --bg-img-center: no-repeat center/cover
 }
@@ -49,8 +48,8 @@
 }
 
 span {
-    color: var(--primary-color);
-    font-family: var(--primary-font);
+    color: #1e38c9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* header/hero area */
@@ -84,7 +83,7 @@ span {
     text-decoration: none;
     margin-top: 20px;
     color: #fff;
-    border-bottom: 2px solid var(--primary-color);
+    border-bottom: 2px solid #1e38c9;
     padding-bottom: 5px;
     font-weight: bold;
 }
@@ -170,7 +169,7 @@ span {
 
 
 .list-number p {
-    color: var(--primary-color);
+    color: #1e38c9;
     text-align: center;
 }
 
@@ -189,7 +188,8 @@ span {
     background: url(photos/download\ \(1\).png) no-repeat center;
     width: 300px;
     height: 300px;
-    border: 10px solid var(--primary-color);
+    border: 10px solid #1e38c9;
+    ;
     border-radius: 50%;
     transition-property: all;
     transition-duration: 1s;
@@ -213,14 +213,14 @@ span {
 }
 
 .project-detalis-img {
-    box-shadow: 10px 10px 5px var(--primary-color);
+    box-shadow: 10px 10px 5px #1e38c9;
     transition-property: all;
     transition-duration: 1s;
 }
 
 .project-detalis-img:hover {
     transform: scale(1.1);
-    box-shadow: 20px 20px 10px var(--primary-color);
+    box-shadow: 20px 20px 10px #1e38c9;
     transform: skew(10deg);
 }
 
@@ -228,7 +228,7 @@ span {
     margin: 40px;
     font-size: 25px;
     font-weight: bold;
-    color: var(--primary-color);
+    color: #1e38c9;
 
 }
 
@@ -252,7 +252,7 @@ input {
 }
 
 input:focus {
-    border-bottom: 2px solid var(--primary-color);
+    border-bottom: 2px solid #1e38c9;
 
 }
 
@@ -263,13 +263,14 @@ input:focus {
     padding: 15px 32px;
     background-color: #fff;
     font-size: 100%;
-    box-shadow: 5px 5px 2px var(--primary-color);
+    box-shadow: 5px 5px 2px #1e38c9;
+    ;
     border-radius: 10%;
 }
 
 /* FOOTER */
 footer {
-    background-color: var(--primary-color);
+    background-color: #1e38c9;
 }
 
 footer p {
@@ -300,14 +301,14 @@ footer p {
 
 .social-icons a i {
     font-size: 2em;
-    color: var(--primary-color);
+    color: #1e38c9;
     opacity: 0.9;
 }
 
 /* hover social-media */
 
 .social-icons a:hover {
-    background-color: var(--primary-color);
+    background-color: #1e38c9;
     transition: 0.5s;
 }
 
