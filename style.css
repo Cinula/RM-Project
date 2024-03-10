@@ -6,7 +6,6 @@
 
 /*Global style */
 :root {
-    --primary-font: Algerian;
     --bg-img-center: no-repeat center/cover
 }
 
@@ -33,7 +32,8 @@
 .list-items a {
     padding: 20px;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    ;
     color: #fff;
 }
 
@@ -64,7 +64,8 @@ span {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    ;
     margin-left: 10rem;
     color: #fff;
 
@@ -91,7 +92,7 @@ span {
 /* SERVICE */
 
 .main-headings {
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 3rem;
     font-weight: normal;
     margin: 50px;
@@ -120,7 +121,7 @@ span {
 
 .card p {
     color: rgb(39, 39, 39);
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
 }
 
@@ -157,7 +158,7 @@ span {
 
 .lists-container {
     margin-left: 30px;
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .list {
@@ -209,7 +210,7 @@ span {
     align-items: center;
     flex-wrap: wrap;
     margin-top: 10rem;
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .project-detalis-img {
@@ -264,7 +265,6 @@ input:focus {
     background-color: #fff;
     font-size: 100%;
     box-shadow: 5px 5px 2px #1e38c9;
-    ;
     border-radius: 10%;
 }
 
