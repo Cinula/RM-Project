@@ -35,3 +35,35 @@ The content gets bigger or changing shape when you point the cursor on it for mo
 
 My technology was visual studio code editor, using HTML and CSS language. Using code validator to chceck for errors and bugs. In the end diploying my code to github repository.
 
+# testing 
+
+I did test the website on google chrome and edge web browser. I did test the website with internal external linsk and button for submiting form. 
+    1. testing in html code validator [link to HTML validator](https://validator.w3.org/) 
+    2. testing in css code validator [link to CSS validator](https://jigsaw.w3.org/css-validator/)
+    
+    code was tested and working correctly.
+
+    3. Bugs and errors 
+
+        - Had to many H1 elements in my projects, should be only 1 H1 element as a title. I did change all H1 element to H2 elements exept Title.
+
+        - I have error with sections element, Had section element without the title, to have swop all section element to divs element. Divs does not need to have a title. 
+
+        - A lot of: HTML & CSS
+                    - typink mistakes 
+                    - semi-colon missing 
+                    - colon missing 
+                    - brackets missing
+
+        to fix it i had to review code nad find all the missing attribiutes and place it in the right order.  
+
+        - picture size and quility, some of the images was poor quality to big or to small. To fix it had to use tool to resize to images to fit the style. 
+
+        - The website content was too crowded, decided to remove some of unnecesery content like numbers on the list for better style and visability. 
+
+        - in the main section when text content was transform text to bigger text when point it cusor on it was moving side image. To fix it i decide to remove bold form font family.  
+    
+    4. I use big pc screen on my towet pc, and supoorting wih my laptop screen to test the code in google chrome and egde browsers.
+
+    
+        

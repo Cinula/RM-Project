@@ -223,7 +223,7 @@ span {
     transform: scale(1.2);
 }
 
-/*PROJECT DETALIS */
+/*PROJECT positioning and shadow */
 
 .project-detalis__container-left,
 .project-detalis__container-right {
@@ -263,6 +263,10 @@ form {
     justify-content: center;
     align-items: center;
     margin: 10rem 10rem;
+}
+
+form h2 {
+    margin: 20px;
 }
 
 input {
@@ -343,7 +347,8 @@ footer p {
 
     .hero__headings-container {
         justify-content: center;
-        align-items: flex-start;
+        align-items: center;
+        width: 100%;
     }
 
     .hero__main-headings {
@@ -364,14 +369,5 @@ footer p {
 
     input {
         width: 20rem;
-    }
-
-    .main-btn {
-        text-decoration: none;
-        margin-top: 20px;
-        color: #fff;
-        border-bottom: 2px solid #1e38c9;
-        padding-bottom: 5px;
-        font-weight: bold;
     }
 }
