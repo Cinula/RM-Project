@@ -22,6 +22,12 @@
     z-index: 99;
 }
 
+.nav__logo h2 {
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+}
+
 .list-items {
     display: inline;
 }
@@ -38,24 +44,13 @@
     border-bottom: 2px solid #fff;
 }
 
-.nav__logo h2 {
-    color: #fff;
-    font-size: 2rem;
-    text-align: center;
-}
-
-span {
-    color: #1e38c9;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 /* header/hero area */
 .hero {
     background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.616)),
         url(photos/snapedit_1708976211327.png) no-repeat center/cover fixed;
 }
 
-.hero__headings-container {
+.hero_headings-container {
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -68,13 +63,18 @@ span {
 
 }
 
-.hero__main-headings {
+.hero_main-headings {
     font-size: 5rem;
     color: #fff;
 }
 
-.hero__headings-container p {
+.hero_headings-container p {
     font-weight: bold;
+}
+
+span {
+    color: #1e38c9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .main-btn {
@@ -86,7 +86,7 @@ span {
     font-weight: bold;
 }
 
-/* SERVICE */
+/* main */
 
 .main-headings {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -114,12 +114,6 @@ span {
     transition-property: all;
     transition-duration: 1s;
     border: 1px solid #ccc;
-}
-
-.card p {
-    color: rgb(39, 39, 39);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 10px;
 }
 
 .card:hover {
@@ -201,12 +195,6 @@ span {
     margin: 20px;
 }
 
-
-.list-number p {
-    color: #1e38c9;
-    text-align: center;
-}
-
 .list-info {
     color: rgb(122, 122, 122);
     transition-property: all;
@@ -215,10 +203,9 @@ span {
 
 .list-info:hover {
     transform: scale(1.1);
-    font-weight: bold;
 }
 
-.owner-image {
+.image-one {
     background: url(photos/download\ \(1\).png) no-repeat center;
     width: 300px;
     height: 300px;
@@ -230,7 +217,7 @@ span {
 
 }
 
-.owner-image:hover {
+.image-one:hover {
     transform: scale(1.2);
 }
 

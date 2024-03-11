@@ -29,4 +29,4 @@ i use font-famili Verdana for style the text, for easy read and visability.
 Webside layout is simple main picture as a background of football club there is navigarion bar for faster for any user. 
 Next section is gallery and pictures related Real Madrid. 
 Section below gallery is main content wiht information about the club, at the bottom of the page you can find form you could sign up and footer to navigate for social media.
-The content gets bigger or changing shape when you point the cursor on it for more clear view for users.S
+The content gets bigger or changing shape when you point the cursor on it for more clear view for users.
