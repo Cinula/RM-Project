@@ -8,15 +8,16 @@ I would like to share and connect with other supporters of Real Madrid football 
 
 # Features 
 
-On website you can see title, and navigation bar at the top for simpler  locate place you would like to go to. There is the gallery to see some epic moment of team and fans. you can find some of the basik information about the Real Madrid club. at the buttom of the page is form witch you could sing up to became fan club member, and usefull links to connect by social media.
+On website you can see title, and navigation bar at the top for simpler  locate place you would like to go to. There is the gallery to see some epic moment of team and fans. you can find some of the basic information about the Real Madrid club. at the buttom of the page is form witch you could sing up to became fan club member, and usefull links to connect by social media.
 
 # Future features 
 
-I would like to grow with my website and impove it for better quality and to bring more useres. I am planning to create:
-- chat for register useres, for comunication and geting to know each others.
+I would like to grow with my website and impove it for better quality and to bring more useres. I am planning to create in future :
+- chat for register useres, for comunication and geting to know each others, find people who support this same club like you.
 - Shop for people who would likt to buy souvenirs or gifts, like Real Madrid t-sherts and jerseys.
 - Calendar with Real Madrid game shedule to make sure noone miss the oportunity to watch the game.
 - live update on matches.
+- the wbsite for fans of football could be created for other football clubs.  
 I belive there is unlimited potencial for much more features in the future.  
 
 # Typography and color scheme 
