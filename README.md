@@ -30,3 +30,8 @@ Webside layout is simple main picture as a background of football club there is 
 Next section is gallery and pictures related Real Madrid. 
 Section below gallery is main content wiht information about the club, at the bottom of the page you can find form you could sign up and footer to navigate for social media.
 The content gets bigger or changing shape when you point the cursor on it for more clear view for users.
+
+# technology 
+
+My technology was visual studio code editor, using HTML and CSS language. Using code validator to chceck for errors and bugs. In the end diploying my code to github repository.
+

@@ -365,4 +365,13 @@ footer p {
     input {
         width: 20rem;
     }
+
+    .main-btn {
+        text-decoration: none;
+        margin-top: 20px;
+        color: #fff;
+        border-bottom: 2px solid #1e38c9;
+        padding-bottom: 5px;
+        font-weight: bold;
+    }
 }
