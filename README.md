@@ -8,7 +8,7 @@ I would like to share and connect with other supporters of Real Madrid football 
 
 # Features 
 
-On website you can see title, and navigation bar at the top for simle locate place you would like to go to. There is the gallery to see some epic moment of team and fans. you can find some of the basik information about the Real Madrid club. at the buttom of the page is form witch you could sing up to became fan club member, and usefull links to connect by social media.
+On website you can see title, and navigation bar at the top for simpler  locate place you would like to go to. There is the gallery to see some epic moment of team and fans. you can find some of the basik information about the Real Madrid club. at the buttom of the page is form witch you could sing up to became fan club member, and usefull links to connect by social media.
 
 # Future features 
 
@@ -65,5 +65,5 @@ I did test the website on google chrome and edge web browser. I did test the web
     
     4. I use big pc screen on my towet pc, and supoorting wih my laptop screen to test the code in google chrome and egde browsers.
 
-    
+
         
