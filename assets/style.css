@@ -15,7 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.904);
     position: fixed;
     width: 100%;
     padding: 20px;
@@ -47,7 +47,7 @@
 /* header/hero area */
 .hero {
     background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.616)),
-        url(photos/snapedit_1708976211327.png) no-repeat center/cover fixed;
+        url(../assets/images/background.png) center/cover fixed;
 }
 
 .hero_headings-container {
@@ -131,51 +131,51 @@ span {
 }
 
 .img-1 {
-    background: url(photos/gettyimages-1761700655.jpeg) no-repeat center/cover;
+    background: url(../assets/images/team.jpeg) no-repeat center/cover;
 }
 
 .img-2 {
-    background: url(photos/30008698.jpg) no-repeat center/cover;
+    background: url(../assets/images/stadium.jpg) no-repeat center/cover;
 }
 
 .img-3 {
-    background: url(photos/RTX66DZ4.jpg) no-repeat center/cover
+    background: url(../assets/images/fans.jpg) no-repeat center/cover
 }
 
 .img-4 {
-    background: url(photos/carlo-ancelotti-2.jpg) no-repeat center/cover;
+    background: url(../assets/images/carloancelotti.jpg) no-repeat center/cover;
 }
 
 .img-5 {
-    background: url(photos/unnamed.png) no-repeat center/cover;
+    background: url(../assets/images/teambus.png) no-repeat center/cover;
 }
 
 .img-6 {
-    background: url(photos/230107105224-real-madrid-lineup-010723.jpg) no-repeat center/cover;
+    background: url(../assets/images/realmadrid.jpg) no-repeat center/cover;
 }
 
 .img-7 {
-    background: url(photos/-1x-1.jpg) no-repeat center/cover;
+    background: url(../assets/images/flag.jpg) no-repeat center/cover;
 }
 
 .img-8 {
-    background: url(photos/1__S7scqhMXrU6CsAcafAq8g.jpg) no-repeat center/cover;
+    background: url(../assets/images/winning.jpg) no-repeat center/cover;
 }
 
 .img-9 {
-    background: url(photos/16937547348928.jpg) no-repeat center/cover;
+    background: url(../assets/images/celebrate.jpg) no-repeat center/cover;
 }
 
 .img-10 {
-    background: url(photos/240122104951-04-real-madrid-012124.jpg) no-repeat center/cover;
+    background: url(../assets/images/bellingham.jpg) no-repeat center/cover;
 }
 
 .img-11 {
-    background: url(photos/TELEMMGLPICT000347677646_16947731509210_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.webp) no-repeat center/cover;
+    background: url(../assets/images/logo.webp) no-repeat center/cover;
 }
 
 .img-12 {
-    background: url(photos/merlin_138716301_7655ceb3-fb5e-4354-821a-bfad8d475786-superJumbo.jpg) no-repeat center/cover;
+    background: url(../assets/images/champions.jpg) no-repeat center/cover;
 }
 
 /* WHY US */
@@ -209,7 +209,7 @@ span {
 }
 
 .image-one {
-    background: url(photos/download\ \(1\).png) no-repeat center;
+    background: url(../assets/images/logoRM.jpg) no-repeat center;
     width: 300px;
     height: 300px;
     border: 10px solid #1e38c9;
@@ -389,7 +389,7 @@ footer p {
 @media only screen and (max-width: 280px) {
     .hero {
         background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.616)),
-            url(photos/snapedit_1708976211327.png) no-repeat center/cover;
+            url(../assets/images/background.png) no-repeat center/cover;
         position: relative;
         width: 100%;
     }
