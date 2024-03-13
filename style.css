@@ -13,19 +13,20 @@
 /*Navigation */
 .nav {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     background-color: rgba(0, 0, 0, 0.5);
     position: fixed;
     width: 100%;
     padding: 20px;
     z-index: 99;
+    height: 80px;
 }
 
 .nav_logo h2 {
     color: #fff;
-    font-size: 2rem;
-    text-align: center;
+    font-size: 30px;
+    text-align: left;
 }
 
 .list-items {
@@ -262,7 +263,8 @@ form {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 10rem 10rem;
+    margin: 20px 20px;
+    width: 100%;
 }
 
 form h2 {
@@ -343,19 +345,26 @@ footer p {
     transition: 0.5s;
 }
 
+@media only screen and (max-width: 768px) {
+    .list {
+        text-align: center;
+        justify-content: center;
+    }
+}
+
 @media only screen and (max-width: 600px) {
 
-    .hero__headings-container {
+    .hero_headings-container {
         justify-content: center;
         align-items: center;
         width: 100%;
     }
 
-    .hero__main-headings {
+    .hero_main-headings {
         font-size: 2rem;
     }
 
-    .nav__logo {
+    .nav_logo {
         display: none;
     }
 
@@ -370,4 +379,51 @@ footer p {
     input {
         width: 20rem;
     }
+
+    .list {
+        text-align: center;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    .hero {
+        background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.616)),
+            url(photos/snapedit_1708976211327.png) no-repeat center/cover;
+        position: relative;
+        width: 100%;
+    }
+
+    .hero_headings-container {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-left: 20px;
+    }
+
+    .nav {
+        height: 150px;
+        padding: 2px;
+        position: relative;
+
+    }
+
+    .list-items {
+        display: block;
+        padding: 1px;
+
+    }
+
+    nav a {
+        padding: 1px;
+    }
+
+    .list-items a {
+        padding: 1px;
+    }
+
+    .card-image {
+        max-width: 250px;
+    }
+
 }
