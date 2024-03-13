@@ -15,7 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.904);
+    background-color: #000000e7;
     position: fixed;
     width: 100%;
     padding: 20px;
@@ -46,7 +46,7 @@
 
 /* header/hero area */
 .hero {
-    background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.616)),
+    background: linear-gradient(to left, #00000066, #0000009d),
         url(../assets/images/background.png) center/cover fixed;
 }
 
@@ -388,7 +388,7 @@ footer p {
 
 @media only screen and (max-width: 280px) {
     .hero {
-        background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.616)),
+        background: linear-gradient(to left, #00000066, #0000009d),
             url(../assets/images/background.png) no-repeat center/cover;
         position: relative;
         width: 100%;
