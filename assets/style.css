@@ -13,7 +13,7 @@
 /*Navigation */
 .nav {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     background-color: #000000e7;
     position: fixed;
@@ -23,9 +23,9 @@
     height: 80px;
 }
 
-.nav_logo h2 {
+.nav_logo {
     color: #fff;
-    font-size: 30px;
+    font-size: 25px;
     text-align: left;
 }
 
@@ -386,6 +386,67 @@ footer p {
     }
 }
 
+@media screen and (max-width: 430px) {
+    .hero {
+        background: linear-gradient(to left, #00000066, #0000009d),
+            url(../assets/images/background.png) no-repeat center/cover;
+        position: relative;
+        width: 100%;
+    }
+
+
+    .hero_headings-container {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+
+    .hero {
+        background: linear-gradient(to left, #00000066, #0000009d),
+            url(../assets/images/background.png) no-repeat center/cover;
+        position: relative;
+        width: 100%;
+    }
+
+
+    .hero_headings-container {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-left: 20px;
+    }
+
+    .nav {
+        height: 150px;
+        padding: 2px;
+        position: relative;
+    }
+
+    .list-items {
+        display: inline;
+        padding: 1px;
+
+    }
+
+    nav a {
+        padding: 1px;
+    }
+
+    .list-items a {
+        padding: 1px;
+    }
+
+    .card-image {
+        max-width: 250px;
+    }
+
+
+}
+
 @media only screen and (max-width: 280px) {
     .hero {
         background: linear-gradient(to left, #00000066, #0000009d),
@@ -409,10 +470,15 @@ footer p {
     }
 
     .list-items {
-        display: block;
+        display: inline;
         padding: 1px;
 
     }
+
+    #text {
+        display: none;
+    }
+
 
     nav a {
         padding: 1px;
@@ -425,5 +491,7 @@ footer p {
     .card-image {
         max-width: 250px;
     }
+
+
 
 }
