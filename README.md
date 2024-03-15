@@ -123,7 +123,7 @@ I use the font-family Verdana to style the text, for easy reading and visibility
 * Lighthouse test by Google inspects tool. 
     * No errors found
     <img src="assets/lighthouse.png">
- * The browser test is complete and works correctly on Chrome and on Microsoft Edge.
+ * The browser test is complete and works correctly on Chrome and Microsoft Edge.
    <img src="assets/images/edge.png">
    <img src="assets/images/chrome.png"> 
 
