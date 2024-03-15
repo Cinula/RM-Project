@@ -71,7 +71,7 @@ Hello and welcome, in this project you can see basic information about the Real 
 * The footer is based at the bottom of the page 
     * The footer section has a blue background
     * There is a title in the middle Find Us on Social media
-* Users can find the icons symbolizing the social media 
+* Users can find the icons symbolizing social media 
     * When the cursor points at one of the icons the icon changes color 
     <img src="assets/images/footer.png">
 
@@ -106,7 +106,8 @@ I use the font-family Verdana to style the text, for easy reading and visibility
     * Display repository 
     * Comiting code to the repository 
 * HTML code Validator [link to HTML validator](https://validator.w3.org/)
-* CSS code Validator [link to CSS validator](https://jigsaw.w3.org/css-validator/)
+* CSS code Validator [link to CSS validator]
+* Grammarly for grammar and spelling mistakes.
 
 
 
@@ -119,7 +120,7 @@ I use the font-family Verdana to style the text, for easy reading and visibility
     * No Error Found
     <img src="assets/CSS validator.png">
 
-* Lighthouse test by google inspect tool. 
+* Lighthouse test by Google inspects tool. 
     * No errors found
     <img src="assets/lighthouse.png">
 
@@ -167,7 +168,7 @@ I use the font-family Verdana to style the text, for easy reading and visibility
     * The user needs to type the correct email address to sign up, if fails then the sign-up button won't work. It will come up message "Please fill this field"
     <img src="assets/images/formemail.png">
 
-    * Users need to type in a password to sign up The user needs to press the Join in submit button to sign up After the user signs up takes a user to the Code Institute website. If fails then the sign-up button won't work. It will come up massage "Please fill this field"
+    * Users need to type in a password to sign up The user needs to press the Join in submit button to sign up After the user signs up takes a user to the Code Institute website. If fails then the sign-up button won't work. It will come up message "Please fill this field"
     <img src="assets/images/formpasswork.png">
     <img src="assets/images/formdestination.png">
 
@@ -207,5 +208,18 @@ The live link can be found here [link](https://cinula.github.io/RM-Project/)
 
 # Credits
 
+* Content
+    * The information for the website page (special info section) was taken from the Wikipedia Real Madrid article.
+    * Code institute and love running projects helped me a lot in understanding a lot of content 
+    * I gathered information for a better understanding of the page layout and navbar of the page on YouTube the links are below: 
+        [Positioning](https://www.youtube.com/watch?v=MxEtxo_AaZ4)
+        [Leyout](https://www.youtube.com/watch?v=3C_22eBWpjg)
+        [navbar](https://www.youtube.com/watch?v=5zDYchk3C5k)
+    * The icons in the footer were taken from Font Awesome
+* Media
+    * The background images were gathered from an open-source site.
+    * The gallery photos were gathered from an open-source site.
 
+* Acknowledgment
+    * Special thanks to my mentor, "Rohit Sharma" for helping me with my first project. 
         
